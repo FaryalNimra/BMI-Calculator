@@ -5,7 +5,6 @@
 
 Welcome to the BMI Calculator! This web application provides a simple and intuitive interface for calculating Body Mass Index (BMI). With this calculator, users can quickly assess their BMI based on their weight and height inputs. 📊
 
-![BMI Calculator Interface](C:/Users/PMLS/Pictures/BMI.PNG)
 
 ## Features
 
@@ -39,4 +38,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to further customize the README according to your preferences!
